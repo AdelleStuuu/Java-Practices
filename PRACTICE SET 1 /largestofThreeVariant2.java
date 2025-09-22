@@ -4,12 +4,8 @@ public class largestofThreeVariant2 {
     public static void main(String[] args) {
         try(Scanner num = new Scanner(System.in)) {
             System.out.println("");
-            int num1;
-            int num2;
-            int num3;
-            int numOne;
-            int numTwo;
-            int numThree;
+            int num1, num2, num3;
+            int numOne, numTwo, numThree;
 
             while (true) {     
                     try {
