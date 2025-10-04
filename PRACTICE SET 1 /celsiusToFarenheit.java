@@ -23,7 +23,6 @@ public class celsiusToFarenheit {
     public static float temperatureInsertion(Scanner temp) {
         float temperature;
         
-            
             while (true) { 
                 try {
                     System.out.print("Great! Enter the temperature needed here for convertion: ");
